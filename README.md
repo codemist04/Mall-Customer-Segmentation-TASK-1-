@@ -11,7 +11,7 @@ The raw dataset which contained CustomerID,Gender,Age,Annual Income(k$),Spending
 - Google Colab
 
 ## 📁 Files Included
-- `mall_customer_cleaning.ipynb` – Notebook containing the full cleaning process  
+- `DataCleaning and Preprocessing.ipynb` – Notebook containing the full cleaning process  
 - `Mall_Customers_Cleaned.csv` – Cleaned dataset file  
 - `README.md` – Project overview
 
